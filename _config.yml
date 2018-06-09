@@ -1,3 +1,21 @@
 title: Ali365Dash
 description: Just another coder.
-theme: jekyll-theme-cayman
+remote_theme: jarrekk/Jalpc
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Ali365Dash  # Be used at blog posts' author.
+  avatar: /avatar.png  # upload your avatar at directory and edit it.
+  github_username: ali365dash  # Leave blank if you don't have now
+  twitter_username: ali365dash  # Leave blank if you don't have now
+  email: # Leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: fa-discord
+    - name: icon-python
+  skill_icon2:
+    - name: icon-python
+    - name: fa-discord
+  desc: Introduce myself will be here.  # Describe yourself.
+  
+  index_carousel: on
