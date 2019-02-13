@@ -1,0 +1,14 @@
+h1 {
+  font-family: Tahoma, Geneva, sans-serif;
+  margin: auto;
+  width: 75%;
+  text-align: center;
+}
+
+p {
+  font-family: Tahoma, Geneva, sans-serif;
+  margin: auto;
+  width: 75%;
+  text-align: center;
+  line-height: 50px;
+}
